@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shoulders &#8211; Swole AF</title>
+	<atom:link href="/category/shoulders/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Get vascular, baby.</description>
+	<lastBuildDate>Sat, 18 Jun 2022 17:32:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/06/8e1a7ee4b29b46b2dedcbdf14dbee728-150x150.png</url>
+	<title>Shoulders &#8211; Swole AF</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bent Over Row (Double)</title>
+		<link>/bent-over-row-2/</link>
+					<comments>/bent-over-row-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 15:53:50 +0000</pubDate>
+				<category><![CDATA[Back]]></category>
+		<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Shoulders]]></category>
+		<guid isPermaLink="false">/?p=361</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-5-1.gif" alt="" class="wp-image-372"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bent-over-row-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>45 Degrees Chest Press</title>
+		<link>/45-degrees-chest-press/</link>
+					<comments>/45-degrees-chest-press/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 15:40:05 +0000</pubDate>
+				<category><![CDATA[Arms]]></category>
+		<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Shoulders]]></category>
+		<guid isPermaLink="false">/?p=214</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-89.gif" alt="" class="wp-image-99"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/45-degrees-chest-press/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bent Over Row (Single)</title>
+		<link>/bent-over-row/</link>
+					<comments>/bent-over-row/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 03:47:42 +0000</pubDate>
+				<category><![CDATA[Back]]></category>
+		<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Shoulders]]></category>
+		<guid isPermaLink="false">/?p=136</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-14.gif" alt="" class="wp-image-87"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bent-over-row/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hips &#8211; Swole AF</title>
+	<atom:link href="/category/hips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Get vascular, baby.</description>
+	<lastBuildDate>Sat, 18 Jun 2022 17:32:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/06/8e1a7ee4b29b46b2dedcbdf14dbee728-150x150.png</url>
+	<title>Hips &#8211; Swole AF</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hanging Obliques Tuck</title>
+		<link>/hanging-obliques-tuck/</link>
+					<comments>/hanging-obliques-tuck/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 03:48:02 +0000</pubDate>
+				<category><![CDATA[Abdominals]]></category>
+		<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Hips]]></category>
+		<guid isPermaLink="false">/?p=140</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-17.gif" alt="" class="wp-image-90"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hanging-obliques-tuck/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hanging Tuck Crunch</title>
+		<link>/hanging-tuck-crunch/</link>
+					<comments>/hanging-tuck-crunch/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 03:47:56 +0000</pubDate>
+				<category><![CDATA[Abdominals]]></category>
+		<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Hips]]></category>
+		<guid isPermaLink="false">/?p=138</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-16.gif" alt="" class="wp-image-89"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hanging-tuck-crunch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
