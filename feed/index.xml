@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Get vascular, baby.</description>
-	<lastBuildDate>Sat, 18 Jun 2022 17:32:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Mar 2023 02:26:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,28 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bent Over Row (Double)</title>
-		<link>/bent-over-row-2/</link>
-					<comments>/bent-over-row-2/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Jun 2022 15:53:50 +0000</pubDate>
-				<category><![CDATA[Back]]></category>
-		<category><![CDATA[Exercises]]></category>
-		<category><![CDATA[Shoulders]]></category>
-		<guid isPermaLink="false">/?p=361</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-5-1.gif" alt="" class="wp-image-372"/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/bent-over-row-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Curtsy Lunge (Bar) (Double)</title>
 		<link>/curtsy-lunge-2/</link>
 					<comments>/curtsy-lunge-2/#respond</comments>
@@ -68,29 +46,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/curtsy-lunge-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Alternate Lunge (Double)</title>
-		<link>/alternate-lunge-2/</link>
-					<comments>/alternate-lunge-2/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Jun 2022 15:53:39 +0000</pubDate>
-				<category><![CDATA[Abdominals]]></category>
-		<category><![CDATA[Butt]]></category>
-		<category><![CDATA[Exercises]]></category>
-		<category><![CDATA[Legs]]></category>
-		<guid isPermaLink="false">/?p=354</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-3-1.gif" alt="" class="wp-image-368"/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/alternate-lunge-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -204,7 +159,7 @@
 		
 			</item>
 		<item>
-		<title>Sumo Deadlift (Bar)</title>
+		<title>Sumo Deadlift (Bar+Handles)</title>
 		<link>/sumo-deadlift-2/</link>
 					<comments>/sumo-deadlift-2/#respond</comments>
 		
@@ -219,6 +174,10 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-97.gif" alt="" class="wp-image-61"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-59.gif" alt="" class="wp-image-96"/></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/sumo-deadlift-2/feed/</wfw:commentRss>
@@ -227,7 +186,7 @@
 		
 			</item>
 		<item>
-		<title>Stiff Leg Deadlift (Bar)</title>
+		<title>Stiff Leg Deadlift (Bar+Single)</title>
 		<link>/stiff-leg-deadlift/</link>
 					<comments>/stiff-leg-deadlift/#respond</comments>
 		
@@ -242,9 +201,57 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-96.gif" alt="" class="wp-image-55"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-25.gif" alt="" class="wp-image-73"/></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/stiff-leg-deadlift/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Romanian Deadlift (Double) (Bar)</title>
+		<link>/romanian-deadlift-2/</link>
+					<comments>/romanian-deadlift-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 15:43:59 +0000</pubDate>
+				<category><![CDATA[Back]]></category>
+		<category><![CDATA[Butt]]></category>
+		<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Legs]]></category>
+		<guid isPermaLink="false">/?p=219</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-95.gif" alt="" class="wp-image-43"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/romanian-deadlift-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lying Leg Press</title>
+		<link>/lying-leg-press/</link>
+					<comments>/lying-leg-press/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2022 15:43:31 +0000</pubDate>
+				<category><![CDATA[Exercises]]></category>
+		<category><![CDATA[Legs]]></category>
+		<guid isPermaLink="false">/?p=218</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-94.gif" alt="" class="wp-image-31"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lying-leg-press/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

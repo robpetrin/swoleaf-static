@@ -12,7 +12,7 @@
 	<atom:link href="/category/shoulders/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Get vascular, baby.</description>
-	<lastBuildDate>Sat, 18 Jun 2022 17:32:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Mar 2023 02:24:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,28 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bent Over Row (Double)</title>
-		<link>/bent-over-row-2/</link>
-					<comments>/bent-over-row-2/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Jun 2022 15:53:50 +0000</pubDate>
-				<category><![CDATA[Back]]></category>
-		<category><![CDATA[Exercises]]></category>
-		<category><![CDATA[Shoulders]]></category>
-		<guid isPermaLink="false">/?p=361</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-5-1.gif" alt="" class="wp-image-372"/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/bent-over-row-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>45 Degrees Chest Press</title>
 		<link>/45-degrees-chest-press/</link>
 					<comments>/45-degrees-chest-press/#respond</comments>
@@ -72,7 +50,7 @@
 		
 			</item>
 		<item>
-		<title>Bent Over Row (Single)</title>
+		<title>Bent Over Row (Single+Double)</title>
 		<link>/bent-over-row/</link>
 					<comments>/bent-over-row/#respond</comments>
 		
@@ -86,6 +64,10 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-14.gif" alt="" class="wp-image-87"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-5-1.gif" alt="" class="wp-image-372"/></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/bent-over-row/feed/</wfw:commentRss>

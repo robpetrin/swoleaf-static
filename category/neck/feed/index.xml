@@ -12,7 +12,7 @@
 	<atom:link href="/category/neck/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Get vascular, baby.</description>
-	<lastBuildDate>Sat, 18 Jun 2022 17:32:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Mar 2023 02:25:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Sumo Deadlift (Bar)</title>
+		<title>Sumo Deadlift (Bar+Handles)</title>
 		<link>/sumo-deadlift-2/</link>
 					<comments>/sumo-deadlift-2/#respond</comments>
 		
@@ -43,6 +43,10 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-97.gif" alt="" class="wp-image-61"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-59.gif" alt="" class="wp-image-96"/></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/sumo-deadlift-2/feed/</wfw:commentRss>
@@ -88,29 +92,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/shrug-circles/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sumo Deadlift (Handles)</title>
-		<link>/sumo-deadlift/</link>
-					<comments>/sumo-deadlift/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 18 Jun 2022 04:12:47 +0000</pubDate>
-				<category><![CDATA[Butt]]></category>
-		<category><![CDATA[Exercises]]></category>
-		<category><![CDATA[Legs]]></category>
-		<category><![CDATA[Neck]]></category>
-		<guid isPermaLink="false">/?p=184</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="600" height="338" src="/wp-content/uploads/2022/06/ezgif.com-gif-maker-59.gif" alt="" class="wp-image-96"/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sumo-deadlift/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
